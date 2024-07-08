@@ -1,0 +1,54 @@
+html,body{
+    font-family:Arial, Helvetica,sans-serif 
+}
+
+.main{
+     display:flex;
+ margin: 20px; 
+    }
+    
+
+.main-image{
+width: 500px;
+height: 730px;
+margin-right:25px;
+box-shadow; 0px 2px 4px lightgrey;
+}
+
+.page head{
+    font-weight:lighter;
+    margin-bottom:0px;
+    }
+    
+
+
+ .image2{
+    width:120px; 
+ }
+
+.top{
+    text-color: #565959;
+} 
+ 
+ .page-author
+{
+ margin-top: 15px;
+}
+
+.page-author a {
+    color: #89CFF0;
+}
+
+.right sub-title{
+    font-size:16px;
+}
+
+.right content {
+margin:0;
+margin-top:10px;
+font-size:18px ;
+font-weight:100;
+}
+.right{
+  font-weight:Bold;
+}
