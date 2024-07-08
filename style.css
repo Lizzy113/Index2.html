@@ -1,48 +1,33 @@
-html, body {
+body {
+    margin: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.main {
+.container {
     display: flex;
-    margin: 20px;
-    white-space: normal;
 }
 
-.main-image {
-    width: 500px;
-    height: 680px;
-    margin-right: 25px;
-    box-shadow: 0px 2px 4px lightgrey; 
-}
-
-.page-head {
+.title {
     font-weight: lighter;
-    margin-bottom: 0;
 }
 
-.width {
-    width: 400px; /* Adjust width according to your image size */
- 
+.breadcrumb {
+    color: #565959;
 }
 
-.image2 {
-    width: 120px;
+.main-img {
+    width: 250px;
+    box-shadow: 0px 2px 5px lightgray;
 }
 
-.top {
-    color: #565959; /* Corrected property name */
+.ratings {
+    width: 100px;
 }
 
-.page-author {
-    margin-top: 15px;
+.text-column {
+    margin: 0 0 0 20px;
 }
 
-.page-author a {
-    color: #89CFF0;
-}
-
-right-full-content {
-    overflow: hidden;
-    width: 100%; /* Ensure it stretches to fill available space */
-    
+a {
+    color: #007185;
 }
